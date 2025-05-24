@@ -1,6 +1,8 @@
 # 🧮 Calculator Web App
 
-A sleek, responsive, and minimalistic calculator built using **HTML**, **CSS**, and **JavaScript**. This project focuses on core logic implementation, clean UI, and user experience—perfect for both learning and practical use.
+A sleek, responsive, and minimalistic calculator built using **HTML**, **CSS**, and **JavaScript**. This project focuses on core logic implementation, clean UI, and user experience—perfect for both learning and practical use.  
+
+Check out the calculator for your calculations https://allengeorge2277.github.io/Calculator-Web-App/
 
 ---
 
